@@ -1,0 +1,12 @@
+/*
+Theme Name:     child_theme
+Description:    
+Author:         ReiWordpress
+Template:       rife-free
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.page .title-bar.outside h1.page-title.entry-title{
+    color: #fd0002;
+}
