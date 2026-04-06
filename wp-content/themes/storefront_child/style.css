@@ -1,0 +1,19 @@
+/*
+Theme Name:     storefront_child
+Description:    Child Theme
+Author:         ReiWordpress
+Template:       inspiro
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.page-title-entry-title a{
+    color:crimson;
+}
+
+.tools_button {
+    color:firebrick;
+}
+
+
+
