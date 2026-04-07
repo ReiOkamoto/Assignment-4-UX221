@@ -10,3 +10,7 @@ Template:       rife-free
 .page .title-bar.outside h1.page-title.entry-title{
     color: #fd0002;
 }
+
+.page .title-bar.outside h1.page-title.entry-title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
