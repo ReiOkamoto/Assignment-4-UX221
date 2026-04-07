@@ -2,12 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/top-5-best-travel-destinations-for-2026/
+            http://localhost:8000/airbus-a320/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/travel-tips-for-beginner-travellers/
+            http://localhost:8000/airbus-a330-300/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/airbus-a350-900/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/boeing-737-800/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/boeing-787-9-dreamliner/
         </loc>
     </url>
     <url>
@@ -37,27 +52,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/univeral-travel-adapter/
+            http://localhost:8000/products/airbus-a320/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/travel-neck-pillow/
+            http://localhost:8000/products/airbus-a330-300/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/portable-charger/
+            http://localhost:8000/products/airbus-a350-900/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/file-folder/
+            http://localhost:8000/products/boeing-737-800/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/noise-cancelling-headphones/
+            http://localhost:8000/products/boeing-787-9-dreamliner/
         </loc>
     </url>
     <url>
